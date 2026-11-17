@@ -1,9 +1,9 @@
 :root {
     --bg-color: #a70c0c;
     --text-color: #222222;
-    --card-bg: #cf59f3;
+    --card-bg: #ffffff;
     --header-bg: #ffffff;
-    --primary: #ee125c;
+    --primary: #ec4899;
 }
 
 * {
@@ -21,10 +21,10 @@ body {
 }
 
 body.dark {
-    --bg-color: #e7127d;
+    --bg-color: #1a1a2e;
     --text-color: #f0f0f0;
-    --card-bg: #722fee;
-    --header-bg: #e96d6d;
+    --card-bg: #2a2a4a;
+    --header-bg: #f472b6;
 }
 
 .top-bar {
